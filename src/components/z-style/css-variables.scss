@@ -40,11 +40,11 @@ page {
 
   // Padding
   --z-padding-base: 8rpx;
-  --z-padding-xs: 16rpx;
-  --z-padding-sm: 24rpx;
-  --z-padding-md: 32rpx;
-  --z-padding-lg: 48rpx;
-  --z-padding-xl: 64rpx;
+  --z-padding-xs: 16rpx; // 极小
+  --z-padding-sm: 24rpx; // 小屏
+  --z-padding-md: 32rpx; // 中屏
+  --z-padding-lg: 48rpx; // 大屏
+  --z-padding-xl: 64rpx; // 特大屏
 
   // Font
   --z-font-bold: 600;
